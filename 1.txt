@@ -1,0 +1,101 @@
+
+
+
+<html>
+<style>
+#Link{
+  text-align:center;
+  font-size:33px;
+  clear:both;
+}
+</style>
+<body style=" text-align:center;">
+<h3>表格 </h6>
+<hr>
+<table border="3">
+</hr>
+<tr>
+<th>天气表</th>
+</tr>
+<tr>
+  <td>monday</td>
+  <td>tuesday</td>
+  <td>wednesday</td>
+  <td>thursday</td>
+  <td>friday</td>
+  <td>saturday</td>
+  <td>sunday</td>
+ 
+</tr>
+<tr>
+  <td>rain</td>
+  <td>sunny</td>
+  <td>rain</td>
+  <td>cloudy</td>
+  <td>rain</td>
+  <td>sunny</td>
+  <td>cloudy</td>
+  </tr>
+<tr>
+  <td>rain</td>
+  <td>sunny</td>
+  <td>sunny</td>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>rain</td>
+ 
+</tr>
+<tr>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>rain</td>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>sunny·</td>
+  <td>rain</td>
+
+</tr>
+<tr>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>sunny</td>
+  <td>cloudy</td>
+  <td>rain</td>
+  <td>sunny</td>
+  <td>sunny</td>
+ 
+</tr>
+<tr>
+  <td>rain</td>
+  <td>rain</td>
+  <td>sunny</td>
+  <td>sunny</td>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>rain</td>
+ 
+</tr>
+<tr>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>cloudy</td>
+  <td>rain</td>
+  <td>rain</td>
+  <td>rain</td>
+  <td>sunny</td>
+ 
+</tr>
+
+
+
+</table>
+
+<div id="Link">
+<a href="index.html">Never</a>
+<a href="index.html">home</a>
+<a href="2.html">Next→</a>
+</div>
+
+</body>
+</html>
