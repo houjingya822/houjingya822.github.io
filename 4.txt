@@ -1,0 +1,55 @@
+<html>
+<head>
+<link rel="stylesheet" href="css.css">
+</head>
+<body>
+
+<h1>homework5</h1>
+<img
+src="RWBY.jpg"
+border="0" usemap="#RWBYmap"
+alt="RWBY" />
+
+<map name="RWBYmap" id="RWBYmap">
+
+<area
+shape="rect"
+coords="0,0,300,713"
+href ="R.png"
+
+target="iframe_RWBY"
+alt="R" />
+
+<area
+shape="rect"
+coords="301,0,600,713"
+href ="W.png"
+target="iframe_RWBY"
+alt="W" />
+
+<area
+shape="rect"
+coords="601,0,900,713"
+href ="B.png"
+target="iframe_RWBY"
+alt="B" />
+
+<area
+shape="rect"
+coords="901,0,1144,713"
+href ="Y.png"
+target="iframe_RWBY"
+alt="Y" />
+
+</map>
+    <iframe src="/R.png" name="iframe_RWBY" frameborder="0" width="225" height="535"></iframe>
+    <br/>
+
+<div id="Link">
+<a href="/homework4.html">¡ûPerv</a>
+<a href="/index.html">home</a>
+<a href="/index.html">Never</a>
+</div>
+
+</body>
+</html>
